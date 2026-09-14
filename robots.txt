@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Replace YOUR-USERNAME below after publishing on GitHub Pages.
+Sitemap: https://YOUR-USERNAME.github.io/sitemap.xml
